@@ -97,10 +97,10 @@ We performed the taking after information cleaning forms:
 
  # EXPLORATORY DATA ANALYSIS
  * Univariate Analysis
- ![Univaritive Analysis](IMAGES/Univariate Analysis.png)
+ ![Univaritive Analysis](IMAGES/Univariate Analysis.png.jpg)
  
  * Multivariate Analysis
- ![Multivarive Analysis](IMAGES/Multivaritive Analysis.png)
+ ![Multivarive Analysis](IMAGES/Multivaritive Analysis.png.jpg)
  
  # MODELING
  What are the significant factors influencing the severity of traffic crashes, and can they be used to predict the severity level (e.g., minor, moderate, severe)?
