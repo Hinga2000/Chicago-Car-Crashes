@@ -117,6 +117,7 @@ Research Question:
 Research Question: What is the impact of safety equipment usage (e.g., seatbelts, airbags) on the occurrence and outcomes of crashes, and can we quantify their effectiveness in reducing injuries?
 
  ![Model](IMAGES/Model.png)
+ 
  The model had the following scores: RMSE: 0.33 Recall: 0.9 Precision: 0.88 Accuracy: 0.89 F1-Score: 0.89
  
  # Research Question:
@@ -126,7 +127,7 @@ Research Question: Can we identify geographic hotspots with higher crash frequen
 
 
   ![Location](IMAGES/Location.png)
-  The model had the following scores: RMSE: 0.58 Recall: 0.61 Precision: 0.72 Accuracy: 0.67 F1-Score: 0.66
+ The model had the following scores: RMSE: 0.58 Recall: 0.61 Precision: 0.72 Accuracy: 0.67 F1-Score: 0.66
 
 # Conclusions
  * The prescient demonstrate illustrated a tall exactness rate in deciding mishap seriousness, especially for cases including debilitating wounds. There's room for advance advancement, particularly in distinguishing cases with detailed but not apparent wounds.
