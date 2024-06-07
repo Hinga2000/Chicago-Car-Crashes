@@ -1,7 +1,6 @@
 
 # EXPLORING CRASH DATA AND PREDICTING SEVERITY
 
-! [CAR CRUSH]("https://www.google.com/url?sa=i&url=https%3A%2F%2Fabc7chicago.com%2Fchicago-crash-accident-traffic-car%2F13418166%2F&psig=AOvVaw1DWTZP7yhH7wCg2va0ovsC&ust=1717850072347000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDVqazAyYYDFQAAAAAdAAAAABA")
 # INTRODUCTION
 Vehicle accidents are a major source of worry for public safety and transportation agencies. They not only cause death and property damage but also interrupt traffic flow and incur economic losses. Understanding the factors that contribute to these collisions and their effects is critical for putting effective measures in place to decrease their occurrence and impact.
 
