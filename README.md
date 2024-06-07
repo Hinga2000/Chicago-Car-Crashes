@@ -1,5 +1,6 @@
 
-# EXPLORING CRASH DATA AND PREDICTING SEVERITY
+# ANALYSING CRASH DATA AND SEVERITY PREDICTION
+
 
 # INTRODUCTION
 Vehicle accidents are a major source of worry for public safety and transportation agencies. They not only cause death and property damage but also interrupt traffic flow and incur economic losses. Understanding the factors that contribute to these collisions and their effects is critical for putting effective measures in place to decrease their occurrence and impact.
